@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Teclado Mecânico RGB",
+      "description": "Teclado switch blue com iluminação RGB e layout ABNT2.",
+      "price": 299.9,
+      "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=500",
+      "stock": 5
+    },
+    {
+      "id": "2",
+      "name": "Mouse Gamer Wireless",
+      "description": "Mouse óptico de 16000 DPI com bateria de longa duração.",
+      "price": 189,
+      "image": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?w=500",
+      "stock": 0
+    },
+    {
+      "name": "Teste",
+      "description": "É um belo teste",
+      "price": 123456789,
+      "image": "https://i.pinimg.com/736x/72/6c/5e/726c5e9e9190b3be2662a28cd51cf440.jpg",
+      "stock": 1,
+      "id": "tORA_Gr9pXQ"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
