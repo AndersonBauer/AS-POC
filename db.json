@@ -23,6 +23,14 @@
       "image": "https://i.pinimg.com/736x/72/6c/5e/726c5e9e9190b3be2662a28cd51cf440.jpg",
       "stock": 1,
       "id": "tORA_Gr9pXQ"
+    },
+    {
+      "name": "Iphone 17 Pro Max",
+      "description": "Iphone 17 Pro Max | 512Gb de Armazenamento",
+      "price": 9850,
+      "image": "https://i.pinimg.com/736x/91/f0/2c/91f02c448e80666b21612c2fb5e9f16e.jpg",
+      "stock": 1,
+      "id": "qAI0btvyfO8"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
