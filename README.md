@@ -313,7 +313,7 @@ http://localhost:3001/products
 
 ## Detalhes do Produto
 
-![Tela de Detalhes](./screenshots/Detalhes-AS-POC.jpeg)
+![Tela de Detalhes](./Screenshots/Detalhes-AS-POC.jpeg)
 
 > Tela onde é mostrado os detalhes dos itens.
 
@@ -321,7 +321,7 @@ http://localhost:3001/products
 
 ## Cadastro
 
-![Tela de Cadastro](./screenshots/CadastroDeProdutoValido.jpeg)
+![Tela de Cadastro](./Screenshots/CadastroDeProdutoValido.jpeg)
 
 > Tela para cadastro de produtos novos
 
@@ -329,7 +329,7 @@ http://localhost:3001/products
 
 ## Validação do Cadastro
 
-![Tela de demonstração de erro](./screenshots/FormularioInvalido.jpeg)
+![Tela de demonstração de erro](./Screenshots/FormularioInvalido.jpeg)
 
 > Tela do formulario com demonstrações de erros.
 
@@ -337,7 +337,7 @@ http://localhost:3001/products
 
 ## Edição
 
-![Tela de Edição de Produtos](/screenshots/TelaDeEditarProduto.jpeg)
+![Tela de Edição de Produtos](/Screenshots/TelaDeEditarProduto.jpeg)
 
 > Tela onde pode ser feita a edição das informações do produto.
 
@@ -345,7 +345,7 @@ http://localhost:3001/products
 
 ## Carrinho
 
-![Tela do Carrinho](./screenshots/CarrinhoComItens.jpeg)
+![Tela do Carrinho](./Screenshots/CarrinhoComItens.jpeg)
 
 > Tela do carrinho com 2 itens adicionado um deles sem atingir o estoque maximo e o outro atingindo o estoque maximo (sem a possibilidade de continuar adicionando caso o limite seja atingido).
 
@@ -353,7 +353,7 @@ http://localhost:3001/products
 
 ## Estoque Máximo
 
-![Demonstração de Limite de Estoque Atingido](./screenshots/EstoqueMaximoAtingido.jpeg)
+![Demonstração de Limite de Estoque Atingido](./Screenshots/EstoqueMaximoAtingido.jpeg)
 
 > Tela de edição mostrando o botão desabilitado ao atingir ou zerar o estoque (No caso o produto tem 0 tem estoque).
 
@@ -361,7 +361,7 @@ http://localhost:3001/products
 
 ## Página 404
 
-![Pagina 404](./screenshots/404NotFound.jpeg)
+![Pagina 404](./Screenshots/404NotFound.jpeg)
 
 > Pagina de não encontrado, para casos de erro de url ou coisas parecidas.
 ---
