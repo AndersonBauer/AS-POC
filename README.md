@@ -305,7 +305,7 @@ http://localhost:3001/products
 
 ## Home
 
-![Tela inicial](/screenshots/Home-AS-POC.jpeg)
+![Tela inicial](./Screenshots/Home-AS-POC.jpeg)
 
 > Tela inicial do site, onde é carregado os iten disposiveis pelo primeiro acesso ao banco.
 
